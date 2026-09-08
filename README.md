@@ -1,3 +1,3 @@
 # cs325
 
-# fall_26
+# Hello SIUE CS Department i ate bananas
